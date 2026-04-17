@@ -135,14 +135,3 @@ website_builder/
 This project is for demonstration purposes. [ISC License](LICENSE).
 
 ---
-
-## 📸 Visual Preview
-
-| Landing Page | Dashboard |
-| :---: | :---: |
-| ![Landing Page](./assets/landing.png) | ![Dashboard](./assets/dashboard.png) |
-
-| Login Interface | Site Editor |
-| :---: | :---: |
-| ![Login](./assets/login.png) | ![Editor](./assets/editor.png) |
-
